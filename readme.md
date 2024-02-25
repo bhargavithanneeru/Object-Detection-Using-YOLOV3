@@ -12,10 +12,8 @@ To run this project, you need the following:
 - Numpy
 
 ## Pre-trained Weights Installation and Conversion
-1. **Dependencies**: Ensure you have Python 3.x installed. Install the required dependencies using pip:
-    ```
-    pip install -r requirements.txt
-    ```
+1. **Dependencies**: Installed the required dependencies using conda
+    
    This project relies on OpenCV and TensorFlow.
 3. **Pre-trained Weights**: Downloaded pre-trained weights for the YOLOv3 model. These weights are necessary for the YOLOv3 model to perform object detection.
 
